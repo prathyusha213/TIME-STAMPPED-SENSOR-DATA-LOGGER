@@ -369,7 +369,7 @@ TIME_STAMPED_SENSOR_DATA_LOGGER/
 
 ## Hardware Output
 
-![Project Output](./IMG20260925173631.jpg)
+![Project Output](IMG20260925173631.heic).
 ## Hyper Terminal Output
 
 ![Project Block Diagram](Screenshot%202026-09-18%20085627.png)
