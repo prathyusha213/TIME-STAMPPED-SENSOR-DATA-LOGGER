@@ -412,6 +412,6 @@ The system provides the following outputs:
 
 ## Author
 
-**M. Harikrishna**
+**G.Prathyusha**
 
 Embedded Systems Project using **LPC2148 ARM7 Microcontroller**.
